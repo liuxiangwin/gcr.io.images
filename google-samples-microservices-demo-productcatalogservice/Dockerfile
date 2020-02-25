@@ -1,0 +1,2 @@
+gcr.io/google-samples/microservices-demo/productcatalogservice:v0.1.0
+
